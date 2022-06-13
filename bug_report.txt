@@ -1,4 +1,4 @@
-  № 1; 
+  	№ 1; 
 	Bug summary - At the top of the main page, the "Advanced" button disappears when scaling by 160%;	
 	Severity - major;
 	Priority - middle; 
