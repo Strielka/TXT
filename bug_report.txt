@@ -1,1 +1,11 @@
-
+  № 1; 
+	Bug summary - At the top of the main page, the "Advanced" button disappears when scaling by 160%;	
+	Severity - major;
+	Priority - middle; 
+	Description - When zoom in by 160% or more, the "Advanced" button disappears;	
+	Environment - Browser Mozilla Firefox for Ubuntu v96.0 (64-bit);
+	Steps to reproduce - 1. Go to https://www.ebay.com/ 2. Look at the top panel to the right of the 'Search' button 3. Zoom page in to 160%;	
+	Actual result - The "Advanced" button disappears when scaling by 160% and more;
+	Expected result - A slider should appear that you need to swipe right horizontally to see the button; 
+	Assignee - Developer 1;	
+	Attachment - https://i.imgur.com/SSwEAr9.png  https://i.imgur.com/mnrN6xV.png
